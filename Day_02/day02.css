@@ -8,6 +8,7 @@ body{
     background: url("https://unsplash.it/1500/1000?image=881&blur=5");
     display: flex;
     align-items: center;
+
 }
 
 .clock{
